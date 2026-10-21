@@ -10,7 +10,7 @@ as an RPI user:
 
 ⭐ **If you like it, please star the repo!**
 
-## What Claude learns
+## What the coding agent learns
 
 - How to find your `rp_<pi>_<project>` account and always pass `-A` and `--time`.
 - How to pick the cluster, partition and QoS (`test`, `standard`, `long`, `priority`, `burst`), and the rules each
